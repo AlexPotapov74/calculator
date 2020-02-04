@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Calc\bin\Debug\netcoreapp3.0\Calc.exe
+C:\Users\user\source\repos\Calc\bin\Debug\netcoreapp3.0\Calc.deps.json
+C:\Users\user\source\repos\Calc\bin\Debug\netcoreapp3.0\Calc.runtimeconfig.json
+C:\Users\user\source\repos\Calc\bin\Debug\netcoreapp3.0\Calc.runtimeconfig.dev.json
+C:\Users\user\source\repos\Calc\bin\Debug\netcoreapp3.0\Calc.dll
+C:\Users\user\source\repos\Calc\bin\Debug\netcoreapp3.0\Calc.pdb
+C:\Users\user\source\repos\Calc\obj\Debug\netcoreapp3.0\Calc.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Calc\obj\Debug\netcoreapp3.0\Calc.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Calc\obj\Debug\netcoreapp3.0\Calc.AssemblyInfo.cs
+C:\Users\user\source\repos\Calc\obj\Debug\netcoreapp3.0\Calc.dll
+C:\Users\user\source\repos\Calc\obj\Debug\netcoreapp3.0\Calc.pdb
